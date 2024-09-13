@@ -1,5 +1,5 @@
 # marine-rs
-Pythonで書かれたmarineをRustで贅沢に書き直しました。
+Pythonで書かれたmarineをRustで贅沢に書き直すプロジェクトです。
 
 ## Todo:
 - [ ] onnxに変換
