@@ -1,2 +1,6 @@
 # marine-rs
-marine which are written by rust
+Pythonで書かれたmarineをRustで贅沢に書き直しました。
+
+## Todo:
+- [ ] onnxに変換
+- [ ] コードの実装
